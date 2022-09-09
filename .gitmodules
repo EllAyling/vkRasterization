@@ -1,0 +1,3 @@
+[submodule "external/egaf"]
+	path = external/egaf
+	url = https://github.com/EllAyling/egaf
